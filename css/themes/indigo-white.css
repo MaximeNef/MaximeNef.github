@@ -10,6 +10,13 @@ main {
 	color: #ffffff;
 }
 
+.icons-social i:hover{
+    color:rgb(57, 124, 179);
+    transition: transform .2s;
+    -ms-transform:scale(1.25); /* IE 9 /     -webkit-transform: scale(1.25); / Safari 3-8 */
+  transform: scale(1.25);
+}
+
 .icons-social a svg path{
 	fill: #a72727;
 }
