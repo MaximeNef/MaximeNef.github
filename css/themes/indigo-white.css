@@ -2,12 +2,12 @@
 
 main {
 	background-image: url(fond2.jpg);
-	color: #e6e6e6;
+	color: #ffffff;
 	background-size: cover;
 }
 
 .icons-social a {
-	color: #000000;
+	color: #ffffff;
 }
 
 .icons-social a svg path{
